@@ -1,0 +1,25 @@
+Customer #1
+Customer's name: Vasya Pupkin
+Customer's address: Lenina street 29
+Customer's date of registration: 27.12.2019
+
+Customer #2
+Customer's name: Lena Kulina
+Customer's address: Krasnaya street 47
+Customer's date of registration: 28.01.2020
+
+Customer #3
+Customer's name: Vasya Pupkin
+Customer's address: Lenina street 29
+Customer's date of registration: 27.12.2019
+
+Customer #4
+Customer's name: Bill Bill
+Customer's address: Bill street 88B
+Customer's date of registration: 18.08.2008
+
+Customer #5
+Customer's name: 
+Customer's address: 
+Customer's date of registration: 
+
