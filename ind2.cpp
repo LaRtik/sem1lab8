@@ -14,10 +14,10 @@ public:
 
     void add()
     {
-        cin.ignore(100, '\n');
+        cin.ignore(100, '\n'); // ignores the '\n' symbol after each std::cin (without this getline() and std::cin works bad together)
         cout << "Enter customer's name: ";
         getline(cin, name);
-        cout << "Enter customer's adress: ";
+        cout << "Enter customer's address: ";
         getline(cin, address);
         cout << "Enter customer's date of registration: ";
         getline(cin, date);
